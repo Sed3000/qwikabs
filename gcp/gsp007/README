@@ -1,0 +1,14 @@
+In this hands-on lab you'll learn the differences between a network load balancer and an HTTP load balancer and how to set them up for your applications running on Compute Engine virtual machines (VMs).
+
+There are several ways you can load balance on Google Cloud. This lab takes you through the set up of the following load balancers:
+
+Network Load Balancer
+HTTP(s) Load Balancer
+You are encouraged to type the commands yourself, which can help you learn the core concepts. Many labs include a code block that contains the required commands. You can easily copy and paste the commands from the code block into the appropriate places during the lab.
+
+What you'll do
+Set up a network load balancer.
+
+Set up an HTTP load balancer.
+
+Get hands-on experience learning the differences between network load balancers and HTTP load balancers.
